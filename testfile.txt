@@ -1,0 +1,279 @@
+
+
+Arizona: 1445632
+   China: 21542000
+   Japan: 13185502
+   Iran: 12223598
+   Indonesia: 10187595
+   Thailand: 8249117
+   United Kingdom: 8174100
+   Colombia: 7613303
+   Peru: 7605742
+   Egypt: 7438376
+   Turkey: 4890893
+   Saudi Arabia: 4878723
+   Democratic Republic of the Congo: 4385264
+   Vietnam: 3398889
+   Spain: 3233527
+   Dominican Republic: 2995211
+   Ukraine: 2832398
+   Italy: 2792508
+   Kenya: 2665657
+   Brazil: 2648532
+   Taiwan: 2618772
+   Angola: 2453779
+   South Africa: 2345908
+   France: 2268265
+   Uzbekistan: 2207850
+   Cuba: 2135498
+   Romania: 1942254
+   Madagascar: 1918117
+   Azerbaijan: 1879251
+   Venezuela: 1838939
+   Morocco: 1789635
+   Hungary: 1728718
+   Poland: 1706724
+   Uganda: 1659600
+   Philippines: 1652171
+   Ghana: 1640507
+   Lebanon: 1574387
+   Austria: 1552789
+   Ecuador: 1504991
+   Yemen: 1431649
+   Guinea: 1399981
+   Malaysia: 1381830
+   Uruguay: 1369797
+   Zambia: 1331254
+   Mali: 1289626
+   Haiti: 1235227
+   Denmark: 1231166
+   Denmark: 1231166
+   Czech Republic: 1227332
+   Kuwait: 1171880
+   Serbia: 1154589
+
+Indiana: 829718
+   Armenia: 1121900
+   Guatemala: 1103865
+   Pakistan: 955629
+   Nicaragua: 926883
+   Mongolia: 907802
+   Malawi: 902388
+   Canada: 898150
+   Mexico: 885180
+   Kyrgyzstan: 843240
+
+Ohio: 822553
+   Togo: 824738
+
+Texas: 790390
+   Croatia: 804200
+   Niger: 794814
+   Moldova: 794800
+   Israel: 780200
+   Nigeria: 778567
+   Sweden: 770284
+   Tunisia: 767629
+   Albania: 763634
+   Turkmenistan: 763537
+   Chad: 751288
+   Honduras: 735982
+   Central African Republic: 731548
+   Iraq: 721640
+   Greece: 721477
+   Mauritania: 719167
+   Rwanda: 718414
+
+Tennessee: 635710
+
+Massachusetts: 617594
+
+Colorado: 600158
+   United States: 601723
+   Finland: 596661
+
+Oklahoma: 580000
+   Tajikistan: 582496
+   Norway: 575475
+   Portugal: 564657
+   Lithuania: 556723
+   Gabon: 556425
+   Eritrea: 543707
+
+California: 466488
+   El Salvador: 521366
+   Paraguay: 520722
+   Djibouti: 475332
+   Guinea-Bissau: 452640
+
+Georgia: 420003
+   Slovakia: 424207
+
+North Carolina: 403892
+   Estonia: 403547
+   Burundi: 384461
+   Bosnia and Herzegovina: 383604
+   New Zealand: 381900
+
+Hawaii: 337256
+   Australia: 354644
+   Ethiopia: 340740
+   Costa Rica: 328195
+
+Minnesota: 300851
+   Papua New Guinea: 307643
+   Bolivia: 300000
+   India: 292300
+   Argentina: 289182
+   Laos: 287579
+   Tanzania: 287200
+   Slovenia: 280140
+
+Nebraska: 258379
+   Lesotho: 267652
+   Suriname: 254147
+   Namibia: 252721
+
+Wisconsin: 233209
+   Cyprus: 239277
+
+Louisiana: 229553
+   Botswana: 225656
+   Benin: 223552
+
+Alabama: 205764
+   Cambodia: 211725
+
+Idaho: 205671
+
+Virginia: 204214
+
+Iowa: 203433
+
+Arkansas: 193524
+   Somalia: 197133
+   Western Sahara: 194668
+   East Timor: 193563
+
+Florida: 190894
+   Bulgaria: 190295
+
+Utah: 186440
+
+Rhode Island: 178042
+   Belgium: 180790
+   Mozambique: 176689
+
+Mississippi: 173514
+   Belarus: 170261
+   Sierra Leone: 170200
+
+Oregon: 154637
+   Zimbabwe: 148728
+   Mauritius: 147251
+   Ireland: 145769
+   Georgia: 144993
+
+South Carolina: 131686
+   Montenegro: 141854
+   Bahrain: 140616
+   Guyana: 134599
+   Senegal: 130594
+
+Kansas: 127473
+
+Connecticut: 124775
+   Cape Verde: 125464
+   Switzerland: 121631
+
+Illinois: 116250
+   Sri Lanka: 118556
+   Libya: 118445
+   Russia: 115410
+
+Michigan: 114297
+   Liberia: 110970
+
+New York: 97856
+   Maldives: 103693
+   Bhutan: 101259
+   Equatorial Guinea: 100677
+   Barbados: 96578
+
+New Jersey: 84913
+   Fiji: 84410
+   Panama: 81397
+   Nepal: 81226
+
+New Mexico: 75764
+   Luxembourg: 76420
+   Latvia: 71316
+   Bangladesh: 70940
+   Jamaica: 70163
+
+North Dakota: 61272
+
+Wyoming: 59466
+   Comoros: 60200
+   Solomon Islands: 59288
+   United Arab Emirates: 58597
+   Chile: 58438
+
+Nevada: 55274
+
+West Virginia: 51400
+   Singapore: 53120
+   Trinidad and Tobago: 50479
+
+Pennsylvania: 49528
+
+Washington: 46478
+
+Missouri: 43079
+
+New Hampshire: 42695
+
+Maryland: 38394
+   Samoa: 39813
+
+Delaware: 36047
+   Monaco: 35986
+   Algeria: 35740
+   Germany: 35200
+   Syria: 35000
+
+Alaska: 32468
+   Afghanistan: 32890
+
+Montana: 28190
+   Seychelles: 29298
+   Brunei: 28135
+
+Kentucky: 25527
+   Marshall Islands: 25400
+   Andorra: 22884
+   Antigua and Barbuda: 22679
+   Tonga: 22400
+
+Maine: 19136
+
+South Dakota: 13646
+   Cameroon: 16160
+   Burkina Faso: 15231
+   Dominica: 14847
+   Qatar: 14500
+   Belize: 12300
+
+Vermont: 7855
+   Oman: 7970
+   Grenada: 7500
+   Kazakhstan: 7000
+   Malta: 6315
+   Liechtenstein: 5248
+   San Marino: 4493
+   Tuvalu: 4492
+   Iceland: 1150
+   Nauru: 1100
+   Palau: 391
+   Vanuatu: 380
+   Kiribati: 300
